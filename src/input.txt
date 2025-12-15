@@ -1,0 +1,7 @@
+//this is comment//
+/* this is another commnt*/
+void main(){
+    int i;
+    const int a=20;
+    print("%d",a/i);
+}
