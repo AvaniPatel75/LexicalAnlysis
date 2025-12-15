@@ -19,7 +19,7 @@ This project is designed to demonstrate the fundamental concepts of **compiler d
 - Detects invalid or unrecognized tokens
 
   🛠️ Technologies Used
-- Programming Language: JAVA
+- Programming Language: C
 
 ---- 
   .
@@ -29,9 +29,9 @@ This project is designed to demonstrate the fundamental concepts of **compiler d
       
       output.txt     # Output file after removing comments and tokenized output
       
-      RemoveComment.java
+      RemoveComment.c
       
-      LexicalAnlusis.java
+      LexicalAnlusis.c
       
 ├── README.md   # Project documentation
 
